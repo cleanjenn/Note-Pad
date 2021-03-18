@@ -2,6 +2,8 @@
 
 https://cleanjenn.github.io/Note-Pad/
 
+https://notebook-rainbow.herokuapp.com/
+
 
 # Table of Contents
 
@@ -32,8 +34,8 @@ Ability to create, save and delete notes or reminders all from one application.
 ```
 # Mock Up
 
-![README Mock-Up](./assets/mockup1.png)
-![README Mock-Up 2](./assets/mockup2.png)
+![README Mock-Up](./images/mockup1.png)
+![README Mock-Up 2](./images/mockup2.png)
 # Contributions
 
 [Jennifer](https://github.com/cleanjenn)
